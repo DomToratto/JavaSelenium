@@ -10,4 +10,8 @@ public class Hello {
 	private void example3() {
 		System.out.println("Example3");
 	}
+	private void example4() {
+		System.out.println("Example4");
+		System.out.println("Yas");
+	}
 }
